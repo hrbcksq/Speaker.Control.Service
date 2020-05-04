@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "Speaker.Control.Service": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
